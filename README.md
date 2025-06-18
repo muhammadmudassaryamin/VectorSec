@@ -57,7 +57,7 @@ Watch the [VectorSec Scanner Demo](https://youtu.be/JOCM-5WmqEU) on YouTube.
 ## Usage
 1. Run the application:
    ```bash
-   python 8poc.py
+   python app.py
    ```
 2. Open your browser and navigate to `http://127.0.0.1:8050`.
 3. Log in or register with a username and password.
@@ -66,7 +66,7 @@ Watch the [VectorSec Scanner Demo](https://youtu.be/JOCM-5WmqEU) on YouTube.
 6. Export results as PDF or CSV using the download buttons.
 
 ## File Structure
-- `8poc.py`: Main application code with Dash app, LLM integration, and analysis logic.
+- `app.py`: Main application code with Dash app, LLM integration, and analysis logic.
 - `test_cases.csv`: Input file containing test cases (not included; must be provided).
 - `requirements.txt`: List of required Python packages.
 
