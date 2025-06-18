@@ -13,6 +13,9 @@ VectorSec AI Security Scanner is a web-based application built with Dash and Pyt
 - **Progress Tracking**: Real-time progress bar for test execution.
 - **Responsive UI**: Built with Dash Bootstrap Components for a modern, user-friendly interface.
 
+## Demo
+Watch the [VectorSec Scanner Demo](https://youtu.be/JOCM-5WmqEU) on YouTube.
+
 ## Prerequisites
 - Python 3.8+
 - Required Python packages (install via `pip install -r requirements.txt`):
@@ -31,8 +34,8 @@ VectorSec AI Security Scanner is a web-based application built with Dash and Pyt
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-security-scanner.git
-   cd ai-security-scanner
+   git clone https://github.com/muhammadmudassaryamin/VectorSec.git
+   cd VectorSec
    ```
 2. Create a virtual environment and activate it:
    ```bash
