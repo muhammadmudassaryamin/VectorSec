@@ -96,4 +96,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the Appache License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For issues or questions, please open an issue on GitHub or contact the maintainer at [your-email@example.com](mailto:muddasaryamin@gmail.com).
+For issues or questions, please open an issue on GitHub or contact the maintainer at [muddasaryamin@gmail.com](mailto:muddasaryamin@gmail.com).
