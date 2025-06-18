@@ -1,0 +1,11 @@
+dash
+dash-bootstrap-components
+pandas
+plotly
+ollama
+requests
+fpdf
+nltk
+scikit-learn
+textblob
+werkzeug
